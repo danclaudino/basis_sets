@@ -3,7 +3,7 @@ Here you can find all my Coupled Cluster Atomic Natural Orbital basis sets publi
 
 If using any of the basis sets found here, please cite accordingly:
 
-### ANO-VT-$N$Z (Atomic Natural Orbital - Virital Theorem - $N$-tuple Zeta)
+### ANO-VT-NZ (Atomic Natural Orbital - Virital Theorem - N-tuple Zeta)
 (also available at https://bse.pnl.gov/bse/portal in many different formats): 
 
 Daniel Claudino, Ricardo Gargano, and Rodney J. Bartlett
